@@ -34,7 +34,7 @@
         <dependency>
             <groupId>com.netflix.archaius</groupId>
             <artifactId>archaius-core</artifactId>
-            <version>0.1.4</version>
+            <version>0.4.1</version>
         </dependency>
         <dependency>
             <groupId>com.rackspacecloud</groupId>
